@@ -1,6 +1,6 @@
 # tree-command
 TITLE : tree command
-The above code works when given command like ./try <directoryname>
+The above code works when given command like ./try directoryname
 It does'nt work when given command ./try. It stores the file and directories present in a directory i. e recursively accessing directories contents which could be file and directory. 
 Features to be implemented: options
 -a which lists all the FILES in directory.
